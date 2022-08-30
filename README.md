@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<hr>
+
+And you can also get more info about me on my [LinkedIn Profile](https://www.linkedin.com/in/lillian-sheely/)
 <!--
 **lilliesheely/lilliesheely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
